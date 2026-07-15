@@ -1,0 +1,23 @@
+h1 {
+  color: navy;
+}
+
+img {
+  width: 200px;
+}
+
+p {
+  color: DarkSlateGray;
+}
+
+.skills {
+  color: darkslategray;
+}
+
+a {
+  color: darkblue;
+}
+
+body {
+  background-color: AliceBlue;
+}
