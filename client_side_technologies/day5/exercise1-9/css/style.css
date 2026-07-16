@@ -1,0 +1,36 @@
+h1 {
+  color: blue;
+}
+
+p {
+  color: grey;
+}
+
+h2 {
+  color: green;
+}
+
+a {
+  text-decoration: none;
+}
+
+#title {
+  color: red;
+}
+
+* {
+  background-color: lightgray;
+  font-family: Arial;
+}
+
+.important {
+  color: red;
+}
+
+.btn {
+  background-color: blue;
+}
+
+section p {
+  color: purple;
+}
