@@ -1,0 +1,93 @@
+h1 {
+  color: blue;
+  font-size: 40px;
+}
+
+p {
+  color: grey;
+}
+
+#button {
+  background-color: green;
+  color: white;
+}
+
+.box {
+  height: 150px;
+  width: 150px;
+
+  border: 3px solid black;
+
+  padding: 20;
+  margin: 30;
+  display: inline-block;
+}
+
+#box1 {
+  background-color: red;
+}
+
+#box2 {
+  background-color: grey;
+}
+
+#box3 {
+  background-color: blue;
+}
+
+.card {
+  height: 150px;
+  width: 150px;
+  border: 3px solid black;
+  padding: 20;
+  margin: 30;
+  display: inline-block;
+  font-size: 30px;
+  font-family: Arial;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+nav li {
+  display: inline;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: red;
+  text-transform: uppercase;
+}
+
+/* Card */
+
+#card {
+  width: 800px;
+  height: 600px;
+  border: 3px solid black;
+  padding: 20;
+  margin: 30;
+  text-align: center;
+  align-items: center;
+}
+
+#card h1 {
+  font-size: 20px;
+}
+
+#card #button1:hover {
+  color: red;
+  text-transform: uppercase;
+}
+
+#card img {
+  height: 300px;
+  width: 600px;
+}
