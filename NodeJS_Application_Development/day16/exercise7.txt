@@ -1,0 +1,5 @@
+1. node_modules
+2. package.json
+3. The packages i installed will be deleted
+4. npm install
+5. No, because it can be installed from npm again
